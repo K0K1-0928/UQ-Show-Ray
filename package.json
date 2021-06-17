@@ -1,0 +1,23 @@
+{
+  "name": "UQ-Show-Ray",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K0K1-0928/UQ-Show-Ray.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K0K1-0928/UQ-Show-Ray/issues"
+  },
+  "homepage": "https://github.com/K0K1-0928/UQ-Show-Ray#readme",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.33"
+  }
+}
